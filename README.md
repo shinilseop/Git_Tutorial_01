@@ -15,3 +15,11 @@ int main(void){
 
 링크
 [git URL](https://github.com/shinilseop/Git_Tutorial_01)
+
+순서 없는 목록
+
+* git Clone
+* git pull
+* git Commit
+  * git Commit 1
+  * git Commit 2
